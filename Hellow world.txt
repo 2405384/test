@@ -1,3 +1,4 @@
 print ("Hellow World");
 print ("Hellow everubody");
 print ("Hellow");
+print ("Hello my dear friend");
